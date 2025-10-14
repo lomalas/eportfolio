@@ -6,7 +6,6 @@ url: "https://lomalas.github.io/eportfolio"
 author:
   name: "Nathan"
   email: "NathanTDunifer@gmail.com"
-theme: minima
 
 # Navigation links
 header_pages:
