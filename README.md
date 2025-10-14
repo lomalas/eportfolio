@@ -1,51 +1,44 @@
 # Nathan's ePortfolio (Jekyll)
 
-This repository contains the configuration and structure for my **personal ePortfolio**, built with **Jekyll** and hosted on **GitHub Pages**. It showcases my background, projects, and skills in **Computer Science**.
-
----
+This repository contains the configuration and structure for my personal ePortfolio, built with Jekyll and hosted on GitHub Pages. It includes pages for my background, experience, projects, and skills in Computer Science.
 
 ## ⚙️ Overview
 
-The main configuration file is **`_config.yml`**, which defines your site’s title, navigation, theme, and metadata.  
-This setup includes all required sections for the portfolio:
+The main configuration file is `_config.yml`, which defines the site’s title, navigation, theme, and metadata.  
+This setup includes:
 
-- **Welcome Page** – brief introduction and purpose  
-- **About** – personal background, goals, and education  
-- **Contact** – ways to reach me  
-- **Experience** – professional, academic, or project-based experience  
-- **Projects** – highlights of my GitHub repositories with descriptions and links  
-- **Skills** – list of tools, languages, and frameworks  
-- *(Optional)* **Resume** – downloadable PDF or embedded document  
+- Welcome Page  
+- About  
+- Contact  
+- Experience  
+- Projects  
+- Skills (tools, languages, frameworks)  
+- Optional Resume  
 
----
-
-## 🧩 Example `_config.yml`
+## 🧩 `_config.yml`
 
 ```yml
-title: "Nathan's ePortfolio"
-description: "A showcase of my computer science projects, experience, and skills."
-baseurl: "" # leave blank for GitHub Pages user site
-url: "https://<your-github-username>.github.io"
+title: ""
+description: ""
+baseurl: ""
+url: ""
 author:
-  name: "Nathan"
-  email: "your.email@example.com"
+  name: ""
+  email: ""
 
 theme: minima
 
-# Navigation
 header_pages:
-  - index.md        # Welcome Page
+  - index.md
   - about.md
   - experience.md
   - projects.md
   - contact.md
   - skills.md
-  # - resume.md     # Optional
+  # - resume.md
 
-# Social Links
 social_links:
-  github: <your-github-username>
-  linkedin: <your-linkedin-username>
+  github: ""
+  linkedin: ""
 
-# Footer
 show_excerpts: true
