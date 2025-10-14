@@ -30,7 +30,8 @@ I aim to:
 - Java  
 - C++  
 - JavaScript  
-- HTML & CSS  
+- HTML & CSS
+  
 ---
 ## Areas of Interest
 
