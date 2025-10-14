@@ -13,10 +13,8 @@ This ePortfolio is a personal space where I document my growth, showcase my proj
 ## What You’ll Find Here
 
 - [**About**](about): Learn more about my background, education, and goals.  
-- [**Experience**](experience): Explore my academic and professional journey.  
+- [**Experience**](exp): Explore my academic and professional journey.  
 - [**Projects**](projects): View my software and creative projects with links to my GitHub repositories.  
-- [**Skills**](skills): Discover the tools, languages, and frameworks I use.  
-- [**Resume**](resume): Access my resume for a detailed overview of my qualifications.  
 - [**Contact**](contact): Find out how to reach me or collaborate on future projects.  
 
 
