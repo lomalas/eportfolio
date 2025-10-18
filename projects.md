@@ -35,7 +35,7 @@ Python
 HTML
 
 **Link:**  
-[Blog (GitHub)](https://github.com/lomalas/blogsite.git)
+[Blog Site (GitHub)](https://github.com/lomalas/blogsite)
 
 ---
 
