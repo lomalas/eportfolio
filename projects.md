@@ -9,7 +9,7 @@ Each project demonstrates a mix of technical skills, creativity, and problem-sol
 
 ---
 
-## Project 1
+## Project 1: Personal Website
 
 **Description:**  
 This is a personal website designed to demonstrate understandings of basic front end developement
@@ -24,16 +24,18 @@ HTML
 
 ---
 
-## Project 2
+## Project 2: Blog page
 
 **Description:**  
-XXX
+This is a functional blog page with a working post page
 
 **Tools Used:**  
-XXX
+Django
+Python
+HTML
 
 **Link:**  
-XXX
+https://github.com/lomalas/blogsite.git
 
 ---
 
