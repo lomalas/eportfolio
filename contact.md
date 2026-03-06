@@ -25,7 +25,7 @@ View my repositories and ongoing projects:
 ## LinkedIn
 
 Connect with me professionally:  
-XXX
+[https://www.linkedin.com/nathan-dunifer/](https://www.linkedin.com/in/nathan-dunifer-294071251/)
 
 ---
 
