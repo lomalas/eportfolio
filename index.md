@@ -2,7 +2,6 @@
 layout: home
 title: "Welcome"
 ---
-# Welcome
 # Welcome to My ePortfolio
 
 Hi, I’m **Nathan** — a passionate **Computer Science student** dedicated to exploring technology, solving problems, and creating meaningful digital experiences.  
