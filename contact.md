@@ -31,4 +31,4 @@ Connect with me professionally:
 
 ## Links
 
-- [Back to Welcome Page](./)  
+ - [Back to Welcome Page](/)
