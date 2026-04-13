@@ -26,4 +26,4 @@ This page outlines my professional, academic, and project-based experience in co
 
 ---
 
-- [Back to Welcome Page](./)  
+ - [Back to Welcome Page](/)
