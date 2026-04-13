@@ -39,6 +39,43 @@ HTML
 
 ---
 
+## Project 3: Terminal Can't hurt You
+**Description:**  
+This is a group project designed to create a web based terminal tutoring app.
+
+**Tools Used:**  
+Django
+Java 
+CSS
+HTML
+
+**Link:**  
+[Terminal-cant-hurt-you (GitHub)](https://github.com/hypercomrade/terminal-cant-hurt-you)
+
+## Project 4: Econmy Simulator
+**Description:**  
+This is a group project designed to create a web based terminal tutoring app.
+
+**Tools Used:**  
+React
+Java 
+CSS
+HTML
+
 ## Links
+[Econmy Simulator (GitHub)](https://github.com/lomalas/CloudMidterm)
+
+## Project 5: SideQuest
+**Description:**  
+This is a webapp designed to gamify the college experience of which I was the project lead of a team of 5.
+
+**Tools Used:**  
+React
+Java 
+CSS
+HTML
+
+## Links
+[SideQuest (GitHub)](https://sidequest-3b80f.web.app/)
 
  - [Back to Welcome Page](/)
