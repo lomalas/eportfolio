@@ -47,4 +47,4 @@ These experiences shape how I approach problem-solving and teamwork in tech.
 
 ---
 
-- [Back to Welcome Page](./) 
+ - [Back to Welcome Page](/)
